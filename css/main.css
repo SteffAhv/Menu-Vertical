@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+#container {
+    background:rgba(134, 149, 136, 0.35);
+    width: 560px;
+    height: 420px;
+    margin: auto;
+}
+
+header {
+    background: white;
+    height: 15%;
+    text-align:left;
+    margin-top: 30px;
+}
+
+li {
+    list-style: none;
+    font-size: 30px;
+    margin: auto;
+    font-family: sans-serif;
+}
