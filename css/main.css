@@ -4,9 +4,9 @@
 }
 
 #container {
-    background:rgba(134, 149, 136, 0.35);
+    background:white;
     width: 560px;
-    height: 420px;
+    height: 400px;
     margin: auto;
 }
 
@@ -22,4 +22,13 @@ li {
     font-size: 30px;
     margin: auto;
     font-family: sans-serif;
+    margin-top:30px;
+    margin-left: 10px;
+}
+.firstoption {
+    background: rgb(242, 203, 35);
+}
+
+.options {
+    background-color:rgb(187, 187, 178);
 }
