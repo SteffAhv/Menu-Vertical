@@ -7,7 +7,7 @@
     background:white;
     width: 560px;
     height: 400px;
-    margin: auto;
+    
 }
 
 header {
@@ -30,9 +30,19 @@ li {
 .firstoption {
     background: rgb(251, 196, 1);
     padding: 15px;
+    color: white;
 }
 
 .options {
-    background-color:rgb(187, 187, 178);
+    background-color:rgba(224, 222, 235, 0.94);
     padding: 15px;
+}
+.firstoption:hover{
+    background: rgb(187, 187, 178);
+    color:black;
+    cursor: pointer;
+}
+.options:hover {
+    background: rgb(187, 187, 178);
+    cursor: pointer;
 }
